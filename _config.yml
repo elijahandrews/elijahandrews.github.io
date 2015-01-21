@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Elijah Andrews
 url:              http://elijahandrews.com
 paginate:         1
-baseurl:          /
+# baseurl:          /
 author:
   name:           Elijah Andrews
 
