@@ -4,9 +4,7 @@ title: Hello, World!
 comments: true
 ---
 
-Hello, world!
-
-I've finally decided to make a blog. If memory serves me correctly, I've been
+I've finally decided to make a blog! If memory serves me correctly, I've been
 thinking about starting a blog for about the past ten years. It was around this
 time that I started keeping a journal, so writing a blog would be as simple as
 publishing a select few of my entries. However, every time
@@ -81,4 +79,4 @@ For some reason, the post just didn't seem finished to me. And now I'm
 discussing the fact that the post didn't seem done to add the finishing touch. I
 suppose I should stop writing before the post degrades even further.
 
-On that note, I'll close by saying once again: Hello, world!
+On that note, I'll close by saying: Hello, world!
