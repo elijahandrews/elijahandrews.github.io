@@ -4,7 +4,7 @@ title: Neat Ice Formations
 comments: true
 ---
 
-The other day, like any other typical school day, I woke up at 7:15 am. However,
+The other day, like any other school day, I woke up at 7:15 am. However,
 I noticed something different: it was foggy outside. Well, that part isn't the
 interesting part. The interesting part was that it was foggy outside in the
 *dead of winter*. I don't think I've ever seen fog in the winter, let alone
