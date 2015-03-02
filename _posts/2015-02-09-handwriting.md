@@ -58,7 +58,7 @@ period end immediately after doing so.
 
 Displeased with my glorious quiz grade of 0%, I started writing $$ t $$ with a
 little tail at the bottom, which easily differentiated it from an addition sign.
-Since then, I've always written t in this manner when doing mathematics:
+Since then, I've always written $$ t $$ in this manner when doing mathematics:
 
 
 [![My new way of writing t.](/assets/handwriting/new-t.png)](/assets/handwriting/new-t.png)
