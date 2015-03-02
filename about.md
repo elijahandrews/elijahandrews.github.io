@@ -12,3 +12,5 @@ stay up way past my bedtime working on my latest project. When I'm not in front
 of a computer, I love to read, spend time with animals and friends, listen to
 music, and play video games. I also enjoy playing jazz, classical, and rock
 guitar.
+
+Check me out [on Github](http://github.com/elijahandrews)!
