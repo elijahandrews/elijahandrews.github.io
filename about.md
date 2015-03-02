@@ -14,3 +14,6 @@ music, and play video games. I also enjoy playing jazz, classical, and rock
 guitar.
 
 Check me out [on Github](http://github.com/elijahandrews)!
+
+If you wish to contact me, please [send me an
+email](mailto:elijahandrewspublic@gmail.com).
