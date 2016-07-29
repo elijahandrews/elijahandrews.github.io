@@ -1,6 +1,5 @@
 # Permalinks
 permalink: /blog/:title
-relative_permalinks: true
 
 # Setup
 title:            Elijah Andrews
