@@ -22,8 +22,8 @@ also had experience managing projects, designing product, providing customer
 support, consulting clients, and training junior team members.
 
 I also love to write! Several of my technical writings have been published on
-The New Stack (http://thenewstack.io/author/elijah-andrews/) and the Datadog
-blog (http://datadoghq.com/author/elijah/).
+[The New Stack](http://thenewstack.io/author/elijah-andrews/) and the [Datadog
+blog](http://datadoghq.com/author/elijah/).
 
 Outside of work, I'm passionate about open source software. Lately I’ve been
 dabbling into 2D and 3D game development. I also enjoy music, and love to play
